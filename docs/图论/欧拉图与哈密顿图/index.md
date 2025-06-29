@@ -57,7 +57,7 @@ $$\lambda(G) \geq 2$$
 $$p(G - V_1) \leq \left|V_1\right|$$
 其中 $p(G)$ 表示 $G$ 的[连通分支数](../图的基本概念/#图的连通性)。
 
-![彼得松图](../imgs/彼得松图.png)
+![彼得松图](../../imgs/彼得松图.png)
 
 设 $G = \langle V, E \rangle$ 是一个半哈密顿图，则对于任意 $V_1 \varsubsetneq V$，且 $V_1 \neq \varnothing$，有：
 $$p(G - V_1) \leq \left|V_1\right| + 1$$

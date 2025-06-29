@@ -93,7 +93,7 @@ a \vee (b \wedge c) &= (a \vee b) \wedge (a \vee c)
 
 则称 $\langle L, \wedge, \vee \rangle$ 是一个**分配格**。
 
-![分配格实例](../../imgs/分配格实例.png)
+![分配格实例](../../../imgs/分配格实例.png)
 
 ### 分配格的判定
 当且仅当不含与钻石格或五边形格**同构**的子格。
@@ -139,7 +139,7 @@ $a$ 和 $a'$ 互为补元。
 若 $\exists a \in L, \forall x \in L, 0 \prec x \preccurlyeq a \Leftrightarrow x = a$
 则称 $a$ 是 $L$ 的**原子**。
 
-![原子实例](../../imgs/原子实例.png)
+![原子实例](../../../imgs/原子实例.png)
 
 设 $A$ 是 有限布尔代数系统 $B$ 的全体原子构成的集合，则 $B$ 同构于 $A$ 的幂集代数 $P(A)$。
 
